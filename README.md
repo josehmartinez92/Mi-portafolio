@@ -1,6 +1,6 @@
 ## Descripción
 
-Este es un portafolio creado con HTML, CSS y JavaScript
+Este es un portafolio creado con HTML y JavaScript
 
 ## Autor -
 **José Martínez**
