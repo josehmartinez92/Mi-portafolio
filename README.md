@@ -9,7 +9,7 @@ Este es un portafolio creado con HTML y JavaScript
 
 ## Ver ejemplo en vivo
 
-- [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
+- [https://josehmartinez92.github.io/Mi-portafolio/] (https://josehmartinez92.github.io/Mi-portafolio/)
 
 ## Instalación 
 Este proyecto no necesita instalación, simplemente abre la carpeta o haz doble click en el .html
